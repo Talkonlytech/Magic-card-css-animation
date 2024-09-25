@@ -12,18 +12,21 @@ Instagram video -
 
 
 
-Output - 1
+Output - 1 HTML
 
-![✨]()
+![✨](![Screenshot 2024-09-25 204157](https://github.com/user-attachments/assets/8cfeb1f7-de74-4156-af60-f104d5748786)
+)
 
+Output - 2 CSS
+
+![✨](![Screenshot 2024-09-25 204428](https://github.com/user-attachments/assets/5f18475d-237d-44d7-a44c-0f81b9ee1259)
+)
 Join Us For Latest Updates 👇
 
-Instagram - 
+Instagram :- https://www.instagram.com/talk_only_tech?igsh=MW5naXBmOXpqN2wzZg==
 
-Telegram - 
+Telegram :- https://t.me/talk_only_tech
 
-Whatsapp- 
+GitHub :- https://github.com/Talkonlytech
 
-You-Tube - 
-
-GitHub - 
+YouTube :- https://youtube.com/@talk_only_tech?si=_kc-Vgo8vzAbUCIA
